@@ -1,6 +1,6 @@
 <template>
   <nav>
-    <router-link to="/zdarov">home</router-link>
+    <router-link to="">home</router-link>
     <router-link to="/todos">todos</router-link>
     <router-link to="/createTodo">createTodo</router-link>
     <router-link to="/createTodo/test">test</router-link>
