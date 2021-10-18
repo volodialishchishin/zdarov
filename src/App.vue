@@ -15,6 +15,7 @@
 </template>
 
 <script>
+console.log("dfgdfgdgdgdfgd")
 export default {
   name: "App",
   watch: {
