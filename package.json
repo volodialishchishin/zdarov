@@ -1,7 +1,8 @@
 {
-  "name": "zdarov",
+  "name": "vueprep",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://OrestSochinskiy.github.io/vuePrep",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -10,9 +11,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "gh-pages": "^3.2.3",
     "vue": "^3.0.0",
-    "vue-router": "^3.5.2",
-    "vuex": "^3.6.2"
+    "vue-router": "^4.0.12",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
