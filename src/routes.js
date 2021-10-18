@@ -10,7 +10,7 @@ import NotFound from "./pages/NotFound";
 import * as VueRouter from "vue-router";
 
 export const routes = [
-  { path: "/zdarova", component: Home },
+  { path: "/zdarov", component: Home },
   { path: "/todos", component: Todos, props: true },
   {
     path: "/createTodo",
