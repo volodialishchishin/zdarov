@@ -12,7 +12,6 @@
   <div v-for="user of users" :key="user.id">{{ user.name }}</div>
   <img alt="Vue logo" src="./assets/logo.png" />
   <router-view></router-view>
-  <h1>fsdffdsfsaeweggresw</h1>
 </template>
 
 <script>
